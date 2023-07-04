@@ -1,6 +1,11 @@
 # akhaled01
 
-Hello! My name is Abdulrahman Idrees, and I'm a full-stack developer in training at [Reboot01](https://www.reboot01.dev/). I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems.
+Hello! My name is Abdulrahman Idrees, and I'm a full-stack developer in training at [Reboot01](https://learn.reboot01.com). I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems.
+
+When I'm not coding, you can find me studying at the University of Bahrain 🎓, where I'm pursuing my degree in Cybersecurity.
+
+I'm passionate about using technology to solve real-world problems, and I'm always looking for new opportunities to learn and grow as a developer. Feel free to check out my GitHub repositories below or get in touch with me. Let's build something great together! 💻🚀
+
 
 ## 🎓 Education
 
