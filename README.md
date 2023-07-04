@@ -8,7 +8,7 @@ Hello! My name is Abdulrahman Idrees, and I'm a full-stack developer in training
   Reboot01\
   _(Current)_
 - **Bachelors in Cybersecurity**\
-  University Of Bahrain 🇧🇭
+  University Of Bahrain 🇧🇭\
   _(Current)_
 
 ## 💼 Skills (in progress)
