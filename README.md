@@ -23,7 +23,3 @@ Hello! My name is Abdulrahman Idrees, and I'm a full-stack developer in training
 [![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
-
-## 📚 Repositories
-
-Check out my [GitHub Repositories](https://github.com/akhaled01?tab=repositories) to see my latest projects and collaborations.
