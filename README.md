@@ -4,7 +4,7 @@ Hello! My name is Abdulrahman Idrees, and I'm a full-stack developer in training
 
 * 🌍  I'm based in Bahrain
 * ✉️  You can contact me at [akhaledlarus@gmail.com](mailto:akhaledlarus@gmail.com)
-* 🧠  I'm learning Tech Stacks for web development
+* 🧠  I'm learning Tech Stacks for web development, and the basics of sysAdmin and cybersecurity! 
 
 ### Skills
 
