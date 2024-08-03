@@ -2,7 +2,7 @@
 
 I am a passionate developer with a keen interest in building efficient and scalable software. I enjoy solving complex problems and continuously learning new technologies to enhance my skills.
 
-🌍 currently Based in Bahrain
+🌍 currently Based in Bahrain<br />
 📫 Reach me at: akhaledlarus@gmail.com
 
 # 💻 Tech Stack:
